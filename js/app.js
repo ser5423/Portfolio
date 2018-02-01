@@ -66,8 +66,8 @@ var gApp = angular.module('gApp', []);
 			 url : "personal.mp4", 
 			 title: "Personal",
 			 name: "Media",
-			 img: "personal/PersonalMedia.png",
-             img2: "personal/PersonalMedia.png",
+			 img: "personal/PersonalMedia.PNG",
+             img2: "personal/PersonalMedia.PNG",
 			 type : false, 
 			 contents: ""
 			}
